@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "address": "123 Main Street",
+      "country": "United States",
+      "description": "Charming 3-bedroom family home with a spacious backyard.",
+      "price": 350000,
+      "photo_id": "photo_12345"
+    },
+    {
+      "id": 2,
+      "address": "456 Elm Avenue",
+      "country": "Canada",
+      "description": "Modern condo with stunning city views, located in the heart of downtown.",
+      "price": 550000,
+      "photo_id": "photo_23456"
+    },
+    {
+      "id": 3,
+      "address": "789 Oak Lane",
+      "country": "United Kingdom",
+      "description": "Historic cottage with a cozy fireplace, nestled in a picturesque countryside.",
+      "price": 280000,
+      "photo_id": "photo_34567"
+    },
+    {
+      "id": 4,
+      "address": "101 Pine Road",
+      "country": "Australia",
+      "description": "Spacious 4-bedroom house with a swimming pool and outdoor entertainment area.",
+      "price": 680000,
+      "photo_id": "photo_45678"
+    },
+    {
+      "id": 5,
+      "address": "222 Maple Court",
+      "country": "France",
+      "description": "Elegant apartment in a luxury building, overlooking the Seine River.",
+      "price": 750000,
+      "photo_id": "photo_56789"
+    }
+  ]
+  
