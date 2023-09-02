@@ -1,7 +1,7 @@
 import Header from "./main-page/header";
 function App() {
   return (
-    <div className="bg-red-700 h-screen w-full">
+    <div className="bg-slate-400">
       <Header description="Owning a Home has Never Been Easier" />
     </div>
   );
